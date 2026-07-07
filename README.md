@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Sunny Vashisth!
+### 👋 Hi there, I'm Sunny!
 
 🚀 **Senior Cloud Engineer** based in Delhi, India, on a mission to become a **Global DevOps/SRE Engineer** in Europe 🇪🇺 or New Zealand 🇳🇿.
 
