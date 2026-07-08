@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Sunny!
 
-🚀 **Senior Cloud Engineer** based in Delhi, India, on a mission to become a **Global DevOps/SRE Engineer** in Europe 🇪🇺 or New Zealand 🇳🇿.
+🚀 **Senior Cloud Engineer** based in Gurgaon, India, on a mission to become a **Global DevOps/SRE Engineer** in Europe 🇪🇺 or New Zealand 🇳🇿.
 
 ---
 
